@@ -1,0 +1,13 @@
+{
+  "name": "endoscopy-morelia",
+  "version": "1.0.0",
+  "description": "Sitio web de Endoscopy Morelia",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build required'",
+    "start": "echo 'Static site - serve index.html'"
+  },
+  "keywords": ["medical", "endoscopy", "static-site"],
+  "author": "Docabyte",
+  "license": "MIT"
+} 
